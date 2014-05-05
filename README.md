@@ -1,4 +1,4 @@
 MacFace
 ================
 
-http://macface.github.com/
+http://macface.github.io/
